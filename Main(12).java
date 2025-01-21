@@ -15,7 +15,9 @@ public class Main
      
      if(x>y)
      System.out.println("x is greater than y");
-     else
+     else if
 	 System.out.println("y is greater than x");
+     else
+         Sytem.out.println("equal");	
 	}
 }
